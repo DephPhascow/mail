@@ -1,0 +1,6 @@
+front/node_modules/*
+/node_modules/*
+/.idea/
+
+front/.env.production
+front/.env
